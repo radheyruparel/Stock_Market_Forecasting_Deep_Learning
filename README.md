@@ -1,4 +1,4 @@
-# Stock-Market-Analysis-And-Forecasting-Using-Deep-Learning
+# Stock Market Analysis And Forecasting Using Deep Learning
 
 ![UI](gg.jpg)
 
@@ -40,23 +40,3 @@ Gated recurrent unit is essentially a simplified LSTM. It has the exact same rol
     <img src="https://www.researchgate.net/profile/Yuanhang-Su/publication/323570767/figure/fig3/AS:674145788506118@1537740289540/The-diagram-of-a-GRU-cell.ppm" width="570" height="470">
   </p>
 
-Results
------
-![UI](ibm.jpg)
-
-![UI](ibm3.jpg)
-
-Blog:
-----
-
-Check out my Medium article ,where I have explained in detail.
-
-[Blog Link](https://nandisoham2017.medium.com/stock-market-analysis-and-forecasting-using-deep-learning-f75052e81301)
-
-Web Application Demo:
------
-
-https://www.linkedin.com/posts/soham-nandi-b39288215_datascience-deeplearning-stockmarket-activity-6817124891163197440-nMmj
-
-THANK YOU :sparkling_heart:
------
